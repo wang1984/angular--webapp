@@ -6,3 +6,7 @@
  gulpfile.js 配置文件
   
 ``` 
+### 运行
+```
+gulp default
+```

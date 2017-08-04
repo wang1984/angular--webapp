@@ -1,10 +1,10 @@
 {
-  "name": "angualrWebApp",
-  "authors": [
-    "wang1984 <277920119@qq.com>"
-  ],
-  "description": "",
+  "name": "webapp",
+  "description": "angularjs webapp",
   "main": "",
+  "keywords": [
+    "angularjs"
+  ],
   "license": "MIT",
   "homepage": "",
   "ignore": [
@@ -15,6 +15,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.5.8"
+    "angular": "1.5.8",
+    "angular-ui-router": "ui-router#0.3.1",
+    "angular-cookies": "1.5.8",
+    "angular-validation": "1.4.2",
+    "angular-animate": "1.5.8"
   }
 }
